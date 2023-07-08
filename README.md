@@ -1,2 +1,2 @@
-# Tugasbesar
-Web untuk kebutuhan tugas besar
+# TugasKuliah
+Web untuk kebutuhan tugas besar dan UAS
